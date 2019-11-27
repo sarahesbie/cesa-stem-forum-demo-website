@@ -1,0 +1,28 @@
+body {
+  background-color: #1c3d72;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 70%;
+}
+
+h1 {
+  color: #2af5ff;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+ol {
+  color: white;
+  font-size: 20px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
